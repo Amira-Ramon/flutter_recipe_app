@@ -1,16 +1,45 @@
-# flutter_application_1
+# 🍲 Flutter Recipe Application
 
-A new Flutter project.
+A team-based Flutter mobile application developed as part of the  
+**Human–Computer Interaction (HCI)** course.
 
-## Getting Started
+The application focuses on usability, clean UI design, and smooth user interaction,  
+allowing users to explore recipes, manage favorites, and authenticate securely.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Features
+- User Authentication (Login / Register / Forgot Password)
+- Browse recipes by category
+- View recipe details
+- Add and remove favorites
+- User profile management
+- Firebase integration for backend services
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## 🛠️ Technologies & Tools
+- **Flutter (Dart)**
+- **Firebase Authentication**
+- **Cloud Firestore**
+- **Firebase Storage**
+- Material Design
+
+
+
+
+🔥 Firebase Configuration (Required)
+
+⚠️ Firebase configuration files are NOT included in this repository for security reasons.
+
+Each team member must perform the following steps:
+   - Create a Firebase project 
+   - Add an Android app to the project 
+   - Download google-services.json 
+    -Place the file inside:
+    android/app/
+  - Run the following command:
+   flutterfire configure
+
+This will generate the required Firebase configuration files locally.
+
