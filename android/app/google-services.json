@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745665858284",
+    "project_id": "sourcesauce-bd4f6",
+    "storage_bucket": "sourcesauce-bd4f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745665858284:android:cdd0634897d4f23a9673c9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2mtL2LjVdth1MxjEscr6gaS4VIMB7TuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
